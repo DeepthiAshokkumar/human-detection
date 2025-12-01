@@ -1,7 +1,7 @@
 import cv2
 import time
 
-url = "rtsp://192.168.144.25:8554/main.264"   # my camera rtsp stream url 
+url = "rtsp//.."   # my camera rtsp stream url 
 cap = cv2.VideoCapture(url)   
 
 fps = 0
